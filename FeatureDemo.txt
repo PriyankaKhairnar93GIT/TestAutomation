@@ -1,1 +1,1 @@
-We are working on playwright fundamentals and results.
+we are working on playwright fundamentals and results
